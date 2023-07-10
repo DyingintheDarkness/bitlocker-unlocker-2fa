@@ -1,0 +1,3 @@
+2fa_key
+secret_password
+bitlocker_password
